@@ -1,2 +1,2 @@
 # Prayer-Reminder
-A prayer reminder website for a a religion project.
+A prayer reminder website for a religion project.
